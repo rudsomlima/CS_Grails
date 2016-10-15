@@ -70,8 +70,8 @@ grails.project.dependency.resolution = {
         runtime ":hibernate4:4.3.6.1" // or ":hibernate:3.6.10.18"
         runtime ":database-migration:1.4.0"
         runtime ":jquery:1.11.1"
-		compile "org.grails.plugins:jasper:1.11.0" // jasper reports
-		
+		//compile "org.grails.plugins:jasper:1.11.0" // jasper reports
+		//compile 'net.sf.jasperreports:jasperreports:6.2.1'
 		
 
         // Uncomment these to enable additional asset-pipeline capabilities

@@ -8,7 +8,7 @@
 	<body>		
 		
 		<div id="divLista">
-			<g:render template="lista" model="[jogadores: jogadores]"></g:render>
+			<g:render template="lista" model="[jogadores:jogadores]"></g:render>
 		</div>
 		
 		<div id="divForm" ></div>

@@ -1,9 +1,9 @@
 <g:if test="${jogadores.size() > 0}">
 	<table>
 	<tr>
-		<th>Nome</th>
-		<th>Preço</th>
-		<th>Qtde. Atual</th>
+		<th>Jogador</th>
+		<th>Vítima</th>
+		<th>Facadas</th>
 	</tr>
 	<g:each var="jogo" in="${jogadores}">
 		<tr>
